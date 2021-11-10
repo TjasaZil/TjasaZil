@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @zuzexx
-- 👀 I’m interested in front end development.
-- 🌱 I’m currently learning HTML, CSS and JS.
-
 <h1 align="center">Hi 👋, I'm Zuzexx</h1>
 <h3 align="center">A passionate frontend developer from Slovenia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuzexx&label=Profile%20views&color=0e75b6&style=flat" alt="zuzexx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuzexx" alt="zuzexx" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JS**
 
@@ -26,7 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuzexx&show_icons=true&locale=en&layout=compact" alt="zuzexx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuzexx&show_icons=true&locale=en" alt="zuzexx" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zuzexx&label=Profile%20views&color=0e75b6&style=flat" alt="zuzexx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuzexx" alt="zuzexx" /></a> </p>
 
