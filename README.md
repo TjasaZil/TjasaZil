@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zuzexx</h1>
 <h3 align="center">A passionate frontend developer from Slovenia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zuzexx&label=Profile%20views&color=0e75b6&style=flat" alt="zuzexx" /> </p>
-
-
 - 🌱 I’m currently learning **HTML, CSS, JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zuzexx?tab=repositories](https://github.com/zuzexx?tab=repositories)
