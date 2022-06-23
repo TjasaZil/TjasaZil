@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Zuzexx</h1>
 <h3 align="center">A passionate frontend developer from Slovenia</h3>
-- 🌱 I’m currently learning **HTML, CSS, JS**
+- 🌱 I’m currently learning **HTML, CSS, SCSS and JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zuzexx?tab=repositories](https://github.com/zuzexx?tab=repositories)
+<!--- 👨‍💻 All of my projects are available at [https://github.com/zuzexx?tab=repositories](https://github.com/zuzexx?tab=repositories)
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **tjasa.zilavec@gmail.com**
 
-- 📄 Know about my experiences [wip](wip)
+- 📄 Know about my experiences [wip](wip)-->
 
 
 <h3 align="left">Languages and Tools:</h3>
