@@ -26,11 +26,11 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuzexx&show_icons=true&locale=en&layout=compact" alt="zuzexx" height="150px"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuzexx&show_icons=true&locale=en&layout=compact" alt="zuzexx" height="140px"/></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuzexx&show_icons=true&locale=en" alt="zuzexx" height = "150px"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuzexx&show_icons=true&locale=en" alt="zuzexx" height = "140px"/></p>
 
 
 <!---
