@@ -27,10 +27,11 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuzexx&show_icons=true&locale=en&layout=compact" alt="zuzexx" height="140px"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username={zuzexx}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuzexx&show_icons=true&locale=en" alt="zuzexx" height = "140px"/></p>
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuzexx&show_icons=true&locale=en" alt="zuzexx" height = "140px"/></p>-->
 
 
 <!---
