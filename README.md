@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zuzexx</h1>
 <h3 align="center">A passionate frontend developer from Slovenia</h3>
 
-- :duck: Currently focusing on learning JavaScript
+- :duck: Currently focusing on learning JavaScript and Svelte
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
