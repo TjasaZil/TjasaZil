@@ -4,7 +4,7 @@
 - :duck: Currently focusing on learning JavaScript and Vue.js
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Experience with:</h3>
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuzexx&show_icons=true&locale=en&layout=compact&bg_color=09131B&hide_border=true&text_color=ffffff" alt="zuzexx" width="400px"/>
 <p align="right"> 
 
