@@ -33,7 +33,7 @@
   ### 🏆 GitHub Stats</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zuzexx&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="400px"/><br>
  
-![](https://github-profile-trophy.vercel.app/?username=zuzexx&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=zuzexx&no-frame=true&theme=darkhub&no-bg=true&margin-w=4)
 
 
 
