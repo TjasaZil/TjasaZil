@@ -47,6 +47,8 @@
  
 ![](https://github-profile-trophy.vercel.app/?username=zuzexx&no-frame=true&theme=darkhub&no-bg=true&margin-w=4)
 
+[![Zuzexx's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zuzexx&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
