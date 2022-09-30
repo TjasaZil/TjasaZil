@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Slovenia</h3>
 
 ### 💫 About Me:
-🔭 I’m currently working on two big projects.<br>👯 I’m looking to collaborate on Vue-based projects.<br>🌱 I’m currently learning Vue, Javascript and PHP.<br>
+🔭 I’m currently working on two big projects.<br>👯 I’m looking to collaborate on Vue-based projects.<br>🌱 I’m currently learning Vue, Javascript and PHP/Laravel.<br>
 
 ### ✨ Like to work with:
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
