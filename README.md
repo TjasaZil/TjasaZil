@@ -14,15 +14,12 @@ Alongside programming languages and frameworks I am always learning ways to test
 
 ### My stack:
 
- <div style="display:flex; align-items:center; margin-top:1.5rem"> <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> </a> <p style="margin-left:1rem ">I use Vue.js for making the front end of my projects.<p></div>
-
- <div style="display:flex; align-items:center; margin-top:0.5rem"> <a href="https://inertiajs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/master/assets/logo.svg?sanitize=true" alt="vuejs" width="30" height="30"/> </a><p style="margin-left:1rem "> Inertia.js is the glue that holds together Vue.js and Laravel.</p></div>
- <div style="display:flex; align-items:center; margin-top:0.5rem">  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/> </a><p style="margin-left:1rem ">To handle the backend</p></div>
-
- <div style="display:flex; align-items:center; margin-top:0.5rem"> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a><p style="margin-left:1rem ">Used for styling</p></div><br>
-
+ <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> </a>
+<a href="https://inertiajs.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/master/assets/logo.svg?sanitize=true" alt="vuejs" width="30" height="30"/> </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a>
 <!-- LANGUAGES I KNOW -->
 
 ### ✨ Experience with:
