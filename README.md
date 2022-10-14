@@ -59,7 +59,7 @@ Alongside programming languages and frameworks I am always learning ways to test
 
 <h3 style="margin-top:2rem;">My Work:</h3>
 
-- <a href="https://pomoc-pointerjem.si" target="_blank">Pomoc Pointerjem Website</a> -> A website made for a non-profit organisation that helps Spanish hunting dogs and sighthounds in need.
+- <a href="https://pomoc-pointerjem.si"  target="_blank" >Pomoc Pointerjem Website</a> -> A website made for a non-profit organisation that helps Spanish hunting dogs and sighthounds in need.
 
 <h3 style="margin-top:2rem; padding-bottom:1rem;">Connect with me:</h3>
 <p align="left">
