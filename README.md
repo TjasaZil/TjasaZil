@@ -4,8 +4,7 @@
 ### 💫 About Me:
 
 <br>
-<p>I have been learning web development for the past year. It started as an interest in frontend development, which lately blossomed into fullstack development, with me starting to learn Laravel. I enjoy working on different types of websites and pride myself on helping small businesses and non-profit organisations in realising their website wishes. <br>
-Alongside programming languages and frameworks I am always learning ways to test them and ensure seamless user experience. I am a firm believer in TDD and testing everything possible.</p><br>
+
 🔭 I’m currently working on bigger projects.<br>
 👯 I’m looking to collaborate on Vue-based projects.<br>
 🌱 I’m currently learning Vue, Javascript and PHP/Laravel.<br><br>
