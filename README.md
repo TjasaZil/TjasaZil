@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on bigger projects.<br>
 👯 I’m looking to collaborate on Vue-based projects.<br>
-🌱 I’m currently learning Vue, Javascript and PHP/Laravel.<br><br>
+🌱 I’m currently learning Vue and Javascript.<br><br>
 
 <!-- I WORK MOST WITH -->
 
