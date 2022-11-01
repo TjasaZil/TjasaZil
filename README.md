@@ -61,6 +61,8 @@
 <h3 style="margin-top:2rem;">My Work:</h3>
 
 - <a href="https://pomoc-pointerjem.si"  target="_blank" >Pomoc Pointerjem Website</a> -> A website made for a non-profit organisation that helps Spanish hunting dogs and sighthounds in need.
+- [The Pasta Pot](https://pastapot.vercel.app/) -> A simple italian restaurant website
+- [Frontend Mentor Challenges](https://frontendmentor-steel.vercel.app/) -> This is a website that hosts all ob the Frontend Mentor Challenges that I finished so far
 
 <h3 style="margin-top:2rem; padding-bottom:1rem;">Connect with me:</h3>
 <p align="left">
