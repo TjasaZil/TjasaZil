@@ -3,9 +3,15 @@
 
 ### 💫 About Me:
 
+I am a software developer, specializing in the web development arena. I have been developing websites using Vue.js, TailwindCss, and Jest for the last year.
+
+I'm currently working on getting my skill to a higher level, by offering my services to people and non-profit organizations that need a website. All my projects are made using the TDD workflow to ensure a seamless user experience. I mostly enjoy working on converting Figma files to fully responsive website layouts.
+
+Drop me a line if you want to talk about web development, coding, or anything else. I am currently available for employment and eager to hear from GitHub users.
+
 <br>
 
-🔭 I’m currently working on bigger projects.<br>
+🔭 I’m currently working on Frontend Mentor challenges.<br>
 👯 I’m looking to collaborate on Vue-based projects.<br>
 🌱 I’m currently learning Vue and Javascript.<br><br>
 
