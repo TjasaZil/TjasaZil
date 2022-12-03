@@ -3,7 +3,7 @@
 
 ### 💫 About Me:
 
-I am a software developer, specializing in the web development arena. I have been developing websites using Vue.js, TailwindCss, and Jest for the last year.
+I am a software developer, specializing in the web development arena. I have been developing websites using Vue.js, Tailwindcss, and Jest for the last year.
 
 I'm currently working on getting my skill to a higher level, by offering my services to people and non-profit organizations that need a website. All my projects are made using the TDD workflow to ensure a seamless user experience. I mostly enjoy working on converting Figma files to fully responsive website layouts.
 
