@@ -54,7 +54,7 @@ Drop me a line if you want to talk about web development, coding, or anything el
 <!-- ACTIVITY GRAPH -->
 <div style="margin-top:3rem;">
 
-[![Zuzexx's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zuzexx&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Github Zuzexx Activity Graph](https://cryptic-sierra-96125.herokuapp.com/graph?username=zuzexx&theme=merko)
 
 </div>
 
