@@ -51,10 +51,7 @@ Drop me a line if you want to talk about web development, coding, or anything el
 
 ![](https://github-profile-trophy.vercel.app/?username=zuzexx&no-frame=true&theme=darkhub&no-bg=true&margin-w=4)
 
-<!-- ACTIVITY GRAPH -->
-<div style="margin-top:3rem;">
 
-![Github Zuzexx Activity Graph](https://cryptic-sierra-96125.herokuapp.com/graph?username=zuzexx&theme=merko)
 
 </div>
 
