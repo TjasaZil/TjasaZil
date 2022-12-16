@@ -11,7 +11,7 @@ Drop me a line if you want to talk about web development, coding, or anything el
 
 <br>
 
-🔭 I’m currently working on Frontend Mentor challenges.<br>
+
 👯 I’m looking to collaborate on Vue-based projects.<br>
 🌱 I’m currently learning Vue and Javascript.<br><br>
 
