@@ -63,6 +63,9 @@ Drop me a line if you want to talk about web development, coding, or anything el
 - [The Pasta Pot](https://pastapot.vercel.app/) -> A simple italian restaurant website
 - [Frontend Mentor Challenges](https://frontendmentor-steel.vercel.app/) -> This is a website that hosts all ob the Frontend Mentor Challenges that I finished so far
 
+<h3 style="margin-top:2rem;">Contributing to:</h3>
+- <a href="https://github.com/mdn/content"  target="_blank" >MDN</a> 
+
 <h3 style="margin-top:2rem; padding-bottom:1rem;">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/zuzexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zuzexx" height="30" width="40" /></a>
