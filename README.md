@@ -9,11 +9,19 @@ I'm currently working on getting my skill to a higher level, by offering my serv
 
 Drop me a line if you want to talk about web development, coding, or anything else. I am currently available for employment and eager to hear from GitHub users.
 
-<br>
+
+- 👯 I’m looking to collaborate on Vue-based projects.<br>
+- 🌱 I’m currently learning Vue and Javascript.<br>
+- 📫 How to reach me **https://cyberplace.social/@zuzexx**<br><br>
+
+<h3 align="right">Connect with me:</h3>
+<p align="right">
+<a href="https://dev.to/zuzexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zuzexx" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tjasa-zilavec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tjasa zilavec" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/zuzexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zuzexx" height="30" width="40" /></a>
+</p>
 
 
-👯 I’m looking to collaborate on Vue-based projects.<br>
-🌱 I’m currently learning Vue and Javascript.<br><br>
 
 <!-- I WORK MOST WITH -->
 
@@ -57,9 +65,7 @@ Drop me a line if you want to talk about web development, coding, or anything el
 
 </div>
 
-<!--### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <!-- MY WORK -->
 
@@ -72,8 +78,4 @@ Drop me a line if you want to talk about web development, coding, or anything el
 <h3 style="margin-top:2rem;">Contributing to:</h3>
 - <a href="https://github.com/mdn/content"  target="_blank" >MDN</a>
 
-<h3 style="margin-top:2rem; padding-bottom:1rem;">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/zuzexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zuzexx" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tjasa-zilavec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tjaša žilavec" height="30" width="40" /></a>
-</p>
+
