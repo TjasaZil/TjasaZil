@@ -15,7 +15,6 @@ Drop me a line if you want to talk about web development, coding, or anything el
 - 📫 How to reach me **https://cyberplace.social/@zuzexx**<br><br>
 
 
-
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://dev.to/zuzexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zuzexx" height="30" width="40" /></a>
