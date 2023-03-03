@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zuzexx</h1>
 <h3 align="center">A passionate web developer from Slovenia</h3>
 
+
 ### 💫 About Me:
 
 I am a software developer, specializing in the web development arena. I have been developing websites using Vue.js, Tailwindcss, and Jest for the last year.
