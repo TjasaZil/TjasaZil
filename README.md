@@ -3,7 +3,6 @@
 
 
 
-
 ### 💫 About Me:
 
 I am a software developer, specializing in the web development arena. I have been developing websites using Vue.js, Tailwindcss, and Jest for the last year.
