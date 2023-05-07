@@ -36,6 +36,8 @@ Drop me a line if you want to talk about web development, coding, or anything el
   <a href="https://inertiajs.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" alt="inertia" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <!--<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"> <img src="https://laravel-livewire.com/img/twitter.png" alt="bootstrap" width="40" height="40"/> </a> -->
 
 
 ### Other:
