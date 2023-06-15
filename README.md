@@ -13,7 +13,6 @@ Drop me a line if you want to talk about web development, coding, or anything el
 
 - 👯 I’m looking to collaborate on Vue-based projects.<br> 
 - 🌱 I’m currently learning Vue, Javascript and testing.<br>
-- 📫 How to reach me **https://cyberplace.social/@zuzexx**<br><br>
 
 
 
@@ -36,8 +35,8 @@ Drop me a line if you want to talk about web development, coding, or anything el
   <a href="https://inertiajs.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" alt="inertia" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <!--<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"> <img src="https://laravel-livewire.com/img/twitter.png" alt="bootstrap" width="40" height="40"/> </a> -->
+  <!--<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"> <img src="https://laravel-livewire.com/img/twitter.png" alt="bootstrap" width="40" height="40"/> </a> -->
 
 
 ### Other:
@@ -55,17 +54,17 @@ Drop me a line if you want to talk about web development, coding, or anything el
  
 
 
-<!-- GITHUB STREAK -->
+<!-- GITHUB STREAK 
 <h3 style="margin-top:2rem;"> :cowboy_hat_face: Github streak </h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zuzexx&theme=dark&hide_border=true&bg_color=09131B" width="400px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zuzexx&theme=dark&hide_border=true&bg_color=09131B" width="400px">-->
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS 
   <h3 style="margin-top:2rem;"> GitHub Stats</h3>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zuzexx&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="400px" style="padding-bottom:2rem"/><br>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zuzexx&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="400px" style="padding-bottom:2rem"/><br>-->
 
-  <!-- GITHUB TROPHY -->
+  <!-- GITHUB TROPHY 
 
-![](https://github-profile-trophy.vercel.app/?username=zuzexx&no-frame=true&theme=darkhub&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=zuzexx&no-frame=true&theme=darkhub&no-bg=true&margin-w=4)-->
 
 
 
