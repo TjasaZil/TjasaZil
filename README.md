@@ -12,7 +12,7 @@ All my projects are made using the TDD workflow to ensure a seamless user experi
 Drop me a line if you want to talk about web development, coding, or anything else. I am currently available for employment and eager to hear from GitHub users.-->
 
 - 👯 I’m looking to collaborate on Vue-based projects.<br> 
-- 🌱 I’m currently learning Vue, Javascript and testing.<br>
+- 🌱 I’m currently learning Laravel and Alpine.js.<br>
 
 
 
