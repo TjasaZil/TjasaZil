@@ -16,12 +16,12 @@ Drop me a line if you want to talk about web development, coding, or anything el
 
 
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/zuzexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zuzexx" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tjasa-zilavec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tjasa zilavec" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zuzexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zuzexx" height="30" width="40" /></a>
-</p>
+</p>-->
 
 
 
