@@ -11,7 +11,7 @@ I'm currently working on getting my skill to a higher level, by offering my serv
 All my projects are made using the TDD workflow to ensure a seamless user experience. I mostly enjoy working on converting Figma files to fully responsive website layouts.
 Drop me a line if you want to talk about web development, coding, or anything else. I am currently available for employment and eager to hear from GitHub users.-->
 
-- 👯 I’m looking to collaborate on Vue-based projects.<br> 
+- 👯 I’m looking to collaborate on Angular-based projects and contribute to open source repositories.<br> 
 - 🌱 I’m currently learning Angular.<br>
 
 
