@@ -58,7 +58,7 @@ Drop me a line if you want to talk about web development, coding, or anything el
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TjasaZil&langs_count=10&include_all_commits=true&theme=gotham&layout=compact)](https://github.com/TjasaZil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TjasaZil&langs_count=10&include_all_commits=true&hide=html,css&theme=gotham&layout=compact)](https://github.com/TjasaZil/github-readme-stats)
 <hr/>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TjasaZil&theme=gotham)](https://github.com/TjasaZil/github-readme-stats)
