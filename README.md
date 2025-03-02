@@ -13,9 +13,6 @@ Drop me a line if you want to talk about web development, coding, or anything el
 
 - 👯 I’m looking to collaborate on Angular-based projects, contribute to open-source repositories, and make mobile apps.<br> 
 - 🌱 I’m currently working with Angular.<br>
-- 🌱 I’m currently learning Flutter and Dart.<br>
-
-
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,8 +20,6 @@ Drop me a line if you want to talk about web development, coding, or anything el
 <a href="https://www.linkedin.com/in/tjasa-zilavec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tjasa zilavec" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zuzexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zuzexx" height="30" width="40" /></a>
 </p>-->
-
-
 
 <!-- I WORK MOST WITH -->
 <hr/>
